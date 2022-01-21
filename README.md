@@ -1,5 +1,5 @@
 # StyledComponents-NextJS
-Para resolver o problema do CSS não aparecer, basta colar esse arquivo na pasta pages.
+Para resolver o problema do CSS não aparecer, basta colar esse script em um arquivo com o nome de _document.js na pasta pages.
 
 ```javascript
 import Document from 'next/document'
