@@ -1,5 +1,5 @@
 # StyledComponents-NextJS
-Para resolver o problema do CSS não aparecer, basta colar esse script em um arquivo com o nome de _document.js na pasta pages.
+Para resolver o problema do CSS não aparecer, isso vai habilitar o server side render do styled components, basta colar esse script em um arquivo com o nome de _document.js na pasta pages. Aqui etá o link que me ajudou chegar na solução -> <a>https://github.com/frontendbr/forum/discussions/2011</a>.
 
 ```javascript
 import Document from 'next/document'
