@@ -1,4 +1,4 @@
-# StyledComponents-NextJS
+# Styled-Components NextJS
 Esse script resolve o problema do CSS não carregar, isso vai habilitar o server side render do styled components, basta colar esse script em um arquivo com o nome de _document.js na pasta pages. Aqui etá o link que me ajudou chegar na solução -> 
   
   <a>https://github.com/frontendbr/forum/discussions/2011</a> <p></p>
