@@ -5,7 +5,7 @@ Esse script resolve o problema do CSS não carregar, isso vai habilitar o server
   <a> https://styled-components.com/docs/advanced#nextjs </a> <p></p>
 
 
-<p>your-project-path/pages/._document.js</p>
+<p>your-project-path/pages/_document.js</p>
 
 ```javascript
 import Document from 'next/document'
